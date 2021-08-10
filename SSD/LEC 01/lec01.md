@@ -34,3 +34,23 @@
 - Message tampering -> Intercept and alert message
 - Replaying -> Storing and sending them later 
 - Flooding -> sending too many 
+
+# Secure Software Development Lifecycle (S-SDLC)
+
+Requirement Gathering 
+- security, risk assesment
+
+Design 
+- Design requirements
+- Threat Modeling
+
+Coding
+- Code review
+
+Testing
+- Valunerability assesment
+
+Deployment
+- nertwork/server configuration
+
+# Aspects of Software security
